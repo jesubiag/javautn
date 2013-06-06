@@ -4,6 +4,7 @@ public class Ejercicio11 {
 
 		int i = 10;
 		Customer[] cus = new Customer[i];
+		// oh, un cambio!
 
 		for(int j = 0; j < i; j++){
 			cus[j] = new Customer();
